@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.92a95a3f.css",
-    "main.js": "/static/js/main.00d7b34b.js",
-    "static/js/787.daf19064.chunk.js": "/static/js/787.daf19064.chunk.js",
-    "static/media/chart-img.png": "/static/media/chart-img.d359baabc78ef9b7a28f.png",
-    "index.html": "/index.html",
-    "main.92a95a3f.css.map": "/static/css/main.92a95a3f.css.map",
-    "main.00d7b34b.js.map": "/static/js/main.00d7b34b.js.map",
-    "787.daf19064.chunk.js.map": "/static/js/787.daf19064.chunk.js.map"
+    "main.css": "/dnt-app/static/css/main.92a95a3f.css",
+    "main.js": "/dnt-app/static/js/main.563c723b.js",
+    "static/js/787.daf19064.chunk.js": "/dnt-app/static/js/787.daf19064.chunk.js",
+    "static/media/chart-img.png": "/dnt-app/static/media/chart-img.d359baabc78ef9b7a28f.png",
+    "index.html": "/dnt-app/index.html",
+    "main.92a95a3f.css.map": "/dnt-app/static/css/main.92a95a3f.css.map",
+    "main.563c723b.js.map": "/dnt-app/static/js/main.563c723b.js.map",
+    "787.daf19064.chunk.js.map": "/dnt-app/static/js/787.daf19064.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92a95a3f.css",
-    "static/js/main.00d7b34b.js"
+    "static/js/main.563c723b.js"
   ]
 }
